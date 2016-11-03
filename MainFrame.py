@@ -4,7 +4,7 @@ import wx
 import time
 import os
 
-import numpy
+import klnmoinmoi
 
 ########################################################################
 # set the file filter
